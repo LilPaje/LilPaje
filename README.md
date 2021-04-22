@@ -45,7 +45,7 @@
 [![Twitch](https://img.shields.io/badge/lilpaje-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/lilpaje)
 
 
-#### *References*: <a href= "https://github.com/Ileriayo/markdown-badges">*Badges*</a>
+##### *References*: <a href= "https://github.com/Ileriayo/markdown-badges">*Badges*</a>
 <!--
 **LilPaje/LilPaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
