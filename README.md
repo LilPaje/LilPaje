@@ -16,8 +16,7 @@
 
 
 ## Let's connect? 
-<a href="https://www.linkedin.com/in/bruno-vin%C3%ADcius-costa-oliveira-9a59991b0/"><img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40" style="max-width:100%;"></img></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40" style="max-width:100%;"></img>
 
 ## Other Skills
 
