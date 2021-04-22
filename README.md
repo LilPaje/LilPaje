@@ -1,3 +1,4 @@
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LilPj&repo=LilPj&countColorcountColor)
 # Hello World 👋😄
 
  I am Bruno, a 🇧🇷 computer engeneering studant, passionated about 📊 ***Data Science*** 📊, 🤖 ***AIs*** 🤖 and 👾 ***Game Development*** 👾.
