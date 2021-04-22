@@ -1,6 +1,6 @@
 # Hi there 👋😄
 
-I am Bruno, a brazilian computer engeneering studant, passionated about **Data Science**, **AIs**, and **Game Development**.
+I am Bruno, a brazilian computer engeneering studant, passionated about **Data Science**, **AIs** and **Game Development**.
 
 
 <!--
