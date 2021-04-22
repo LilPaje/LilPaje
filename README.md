@@ -1,6 +1,6 @@
-## Hi there 👋😄
- 
-I am Bruno, a brazilian computer engeneering studant, passionated about AIs, Machine Learning and Game Development
+# Hi there 👋😄
+
+I am Bruno, a brazilian computer engeneering studant, passionated about AIs, Machine Learning and Game Development.
 
 
 <!--
