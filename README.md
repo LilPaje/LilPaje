@@ -13,15 +13,16 @@
 ![C/C++](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=c)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+
 
 
 
 
 ## Work Tools and Work Space
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="unit" width="40" height="40" style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40" style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40" style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="illustrator" width="40" height="40" style="max-width:100%;"></img>
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=illustrator&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ## Let's connect? 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/bruno-vin%C3%ADcius-costa-oliveira-9a59991b0/)
