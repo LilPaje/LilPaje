@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![C++](https://img.shields.io/badge/-Cpp-05122A?style=flat&logo=c++)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cpp)&nbsp;
 
 
 ## Work Tools and Work Space
