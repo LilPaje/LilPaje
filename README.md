@@ -28,10 +28,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-## Let's connect? 🤗
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vin%C3%ADcius-costa-oliveira-9a59991b0/)
-[![Instagram](https://img.shields.io/badge/@souopj-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/souopj/)
-[![Twitch](https://img.shields.io/badge/lilpaje-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/lilpaje)
+
 
 
 ## Other Skills 😜
@@ -41,6 +38,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 -->
+
+## Let's connect? 🤗
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vin%C3%ADcius-costa-oliveira-9a59991b0/)
+[![Instagram](https://img.shields.io/badge/@souopj-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/souopj/)
+[![Twitch](https://img.shields.io/badge/lilpaje-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/lilpaje)
 <!--
 **LilPaje/LilPaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
