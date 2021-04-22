@@ -5,7 +5,7 @@
 
 ### It’s like everyone tells a story about themselves inside their own head. Always. All the time. That story makes you what you are. We build ourselves out of that story - Patrick Rothfuss
 
-
+<!--
 ## My Skills 🤹🏽
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -40,7 +40,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
+-->
 <!--
 **LilPaje/LilPaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
