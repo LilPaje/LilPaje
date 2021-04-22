@@ -1,4 +1,3 @@
-
 # Hello World 👋😄
 
  I am Bruno, a 🇧🇷 computer engeneering studant, passionated about 📊 ***Data Science*** 📊, 🤖 ***AIs*** 🤖 and 👾 ***Game Development*** 👾.
@@ -8,24 +7,16 @@
 
 ## My Skills
 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img></img> <img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img></img> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img> <img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img> <img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rails_icon_130210.png" alt="rails" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
 
 
 
 ## Work Tools and Work Space
 
-</img> <img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img> <img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img> <img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;"><img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;"><img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;">
+
 
 ## Let's connect? 
+
 
 
 
