@@ -43,6 +43,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vin%C3%ADcius-costa-oliveira-9a59991b0/)
 [![Instagram](https://img.shields.io/badge/@souopj-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/souopj/)
 [![Twitch](https://img.shields.io/badge/lilpaje-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/lilpaje)
+
+
+#####*References*: <a href= "https://github.com/Ileriayo/markdown-badges">*Badges*</a>
 <!--
 **LilPaje/LilPaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
