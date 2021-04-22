@@ -21,7 +21,6 @@
 
 ## Let's connect? 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/bruno-vin%C3%ADcius-costa-oliveira-9a59991b0/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-?style=flat-square&labelColor=6633cc&logo=Instagram&logoColor=white&link=https://www.instagram.com/souopj/)](https://www.instagram.com/souopj/) 
 
 
 
