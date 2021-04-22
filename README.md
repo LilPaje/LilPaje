@@ -20,8 +20,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="unit" width="40" height="40" style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40" style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40" style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="illustrator" width="40" height="40" style="max-width:100%;"></img>
 
 ## Let's connect? 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/rodrigo-bitu-de-moraes-366037191)
-[![Instagram](https://img.shields.io/badge/-Instagram-?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/bruno-vin%C3%ADcius-costa-oliveira-9a59991b0/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/bruno-vin%C3%ADcius-costa-oliveira-9a59991b0/)
+[![Twitter Badge](https://img.shields.io/badge/-Instagram-?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/souopj/)](https://www.instagram.com/souopj/) 
 
 
 
