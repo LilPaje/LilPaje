@@ -20,12 +20,12 @@
 
 
 ## Work Tools and Work Space
-![Unit](https://img.shields.io/badge/-Unit-05122A?style=flat&logo=game&logoColor=white)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GODOT](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine)&nbsp;
+![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
+![Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ## Let's connect? 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vin%C3%ADcius-costa-oliveira-9a59991b0/)
