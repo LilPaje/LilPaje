@@ -44,7 +44,6 @@
 [![Instagram](https://img.shields.io/badge/@souopj-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/souopj/)
 [![Twitch](https://img.shields.io/badge/lilpaje-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/lilpaje)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilPaje_count=8)](https://github.com/LilPaje/github-readme-stats)
 
 ##### *References*: <a href= "https://github.com/Ileriayo/markdown-badges">*Badges*</a>
 <!--
