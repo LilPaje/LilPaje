@@ -4,7 +4,7 @@
 
 ### It’s like everyone tells a story about themselves inside their own head. Always. All the time. That story makes you what you are. We build ourselves out of that story - Patrick Rothfuss
 
-<!--
+
 ## My Skills 🤹🏽
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -29,7 +29,7 @@
 
 
 
-
+<!--
 ## Other Skills 😜
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![NodeJs](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
