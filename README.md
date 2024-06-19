@@ -6,9 +6,7 @@
 
 
 ## My Skills 🤹🏽
-
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -23,6 +21,7 @@
 ![GODOT](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)&nbsp;
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)&nbsp;
