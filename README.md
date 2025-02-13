@@ -1,6 +1,6 @@
 # Hello World 👋😄
 
- I am Izzy, a 🇧🇷 computer engeneering studant, passionated about 💻 ***Reverse Engineering*** 💻, 🤖 ***Eletronics*** 🤖 and 👾 ***Game Development*** 👾.
+ I am Izzy, a 🇧🇷 computer engeneering, passionated about 💻 ***Reverse Engineering*** 💻, 🤖 ***Eletronics*** 🤖 and 👾 ***Game Development*** 👾.
 
 ### It’s like everyone tells a story about themselves inside their own head. Always. All the time. That story makes you what you are. We build ourselves out of that story - Patrick Rothfuss
 
